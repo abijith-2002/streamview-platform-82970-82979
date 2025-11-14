@@ -1,1 +1,3 @@
-# streamview-platform-82970-82979
+# Project Repository
+
+This is the initial README file for the project.
